@@ -2,7 +2,7 @@ git+https://github.com/huggingface/diffusers.git
 git+https://github.com/huggingface/transformers>=4.35.0git
 git+https://github.com/huggingface/accelerate.git
 git+https://github.com/huggingface/peft.git
-gradio>=4.0.0
+gradio>=4.44.0
 pandas
 huggingface-hub
 safetensors
