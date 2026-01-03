@@ -1,0 +1,720 @@
+[
+  {
+    "image": "https://huggingface.co/Keltezaa/emma-watson-face-flux-sdxl/resolve/main/26471563.jpeg",
+    "repo": "Keltezaa/emma-watson-face-flux-sdxl",
+    "title": "Emma Watson",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/Emma_Watson_ohwx_Hermione_Flux/resolve/main/images/example_7xb3ghjr0.png",
+    "repo": "Keltezaa/Emma_Watson_ohwx_Hermione_Flux",
+    "trigger_word": "ohwx",
+    "title": "ohwx Hermione"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/Katie_Thomas_Actress/resolve/main/images/example_9nxcl3qpv.png",
+    "repo": "Keltezaa/Katie_Thomas_Actress",
+    "title": "Katie Thomas"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/Shione_Cooper_Actress/resolve/main/images/example_rdnlqg3w5.png",
+    "repo": "Keltezaa/Shione_Cooper_Actress",
+    "title": "Shione Cooper"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/selena-gomez/resolve/main/49486649.jpeg",
+    "repo": "Keltezaa/selena-gomez",
+    "title": "Selena Gomez"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/olivia-hussey-1970s-flux-lora/resolve/main/48441212.jpeg",
+    "repo": "Keltezaa/olivia-hussey-1970s-flux-lora",
+    "title": "Olivia Hussey"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/megan-marx-flux-adult-film-actress/resolve/main/26607712.jpeg",
+    "repo": "Keltezaa/megan-marx-flux-adult-film-actress",
+    "title": "Megan Marx",
+    "trigger_word": "meganmarx",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/katherine-heigl-90s-flux/resolve/main/49761301.jpeg",
+    "repo": "Keltezaa/katherine-heigl-90s-flux",
+    "title": "Katherine Heigl",
+    "trigger_word": "ohwx",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/olivia-wilde-flux/resolve/main/50265848.jpeg",
+    "repo": "Keltezaa/olivia-wilde-flux",
+    "title": "livia Wilde",
+    "trigger_word": "ohwx",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/rachael-leigh-cook-2000s-flux/resolve/main/50456498.jpeg",
+    "repo": "Keltezaa/rachael-leigh-cook-2000s-flux",
+    "title": "Rachael Leigh Cook",
+    "trigger_word": "ohwx",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/candice-swanepoel-2010s-flux-lora/resolve/main/51617838.jpeg",
+    "repo": "Keltezaa/candice-swanepoel-2010s-flux-lora",
+    "title": "Candice Swanepoel",
+    "trigger_word": "candicesflx",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/kristen-bell/resolve/main/50568509.jpeg",
+    "repo": "Keltezaa/kristen-bell",
+    "title": "kristen bell",
+    "trigger_word": "kristen",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/avril-lavigne-2000s-flux-lora/resolve/main/51624712.jpeg",
+    "repo": "Keltezaa/avril-lavigne-2000s-flux-lora",
+    "title": "Avril Lavigne - 2000",
+    "trigger_word": "avrilflx",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/Tara_Reid_2000s_Flux/resolve/main/images/example_ly94oqpc2.png",
+    "repo": "Keltezaa/Tara_Reid_2000s_Flux",
+    "title": "Tara Reid",
+    "trigger_word": "ohwx",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/katie-fey-jenya-d-eugenia-diordiychuk/resolve/main/43312105.jpeg",
+    "repo": "Keltezaa/katie-fey-jenya-d-eugenia-diordiychuk",
+    "title": "Katie Fey",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/yvonne-flux-cfh/resolve/main/44481712.jpeg",
+    "repo": "Keltezaa/yvonne-flux-cfh",
+    "title": "Yvonne CFH",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/yvonne-strahovski-flux/resolve/main/44911699.jpeg",
+    "repo": "Keltezaa/yvonne-strahovski-flux",
+    "title": "Yvonne Strahovski",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/realistic-elle-from-rick-morty-anime-flux-nsfw/resolve/main/49555411.jpeg",
+    "repo": "Keltezaa/realistic-elle-from-rick-morty-anime-flux-nsfw",
+    "title": "Elle from Rick & Morty",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/gaia-jaime-murray-spartacus-gods-of-the-arena-tv-series/resolve/main/31817079.jpeg",
+    "repo": "Keltezaa/gaia-jaime-murray-spartacus-gods-of-the-arena-tv-series",
+    "title": "Jaime Murray",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/jennifer-carpenter-2012-flux-and-sdxl/resolve/main/28002658.jpeg",
+    "repo": "Keltezaa/jennifer-carpenter-2012-flux-and-sdxl",
+    "title": "Jennifer Carpenter",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/jennifer-morrison/resolve/main/37478669.jpeg",
+    "repo": "Keltezaa/jennifer-morrison",
+    "title": "Jennifer Morrison",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/jennifer-lawrence-real-persons/resolve/main/29699987.jpeg",
+    "repo": "Keltezaa/jennifer-lawrence-real-persons",
+    "title": "Jennifer Lawrence",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/jennifer-garner-mid-2000s/resolve/main/37725543.jpeg",
+    "repo": "Keltezaa/jennifer-garner-mid-2000s",
+    "title": "Jennifer Garner",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/zooey-deschanel-flux/resolve/main/34729269.jpeg",
+    "repo": "Keltezaa/zooey-deschanel-flux",
+    "title": "Zooey Deschanel (Flux)",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/mckenna-grace-768-portrait/resolve/main/30071437.jpeg",
+    "repo": "Keltezaa/mckenna-grace-768-portrait",
+    "title": "Mckenna Grace",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/eva-green-flux/resolve/main/24731080.jpeg",
+    "repo": "Keltezaa/eva-green-flux",
+    "title": "Eva Green",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/flux-taylor-swift/resolve/main/images/example_j6ghxtm8s.png",
+    "repo": "Keltezaa/flux-taylor-swift",
+    "title": "Taylor Swift",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/elizabeth-olsen-sdxl-flux/resolve/main/images/example_emdmjecis.png",
+    "repo": "Keltezaa/elizabeth-olsen-sdxl-flux",
+    "title": "Elizabeth Olsen",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/flux-chloe-grace-moretz/resolve/main/32100214.jpeg",
+    "repo": "Keltezaa/flux-chloe-grace-moretz",
+    "title": "Chloe Grace Moretz",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/cameron-diaz-1994-flux/resolve/main/32289403.jpeg",
+    "repo": "Keltezaa/cameron-diaz-1994-flux",
+    "title": "Cameron Diaz [1994]",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/scarlett-johansson-2003-flux/resolve/main/images/example_6pnh43s5o.png",
+    "repo": "Keltezaa/scarlett-johansson-2003-flux",
+    "title": "Scarlett Johansson",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/flux-alexandra-daddario/resolve/main/31304439.jpeg",
+    "repo": "Keltezaa/flux-alexandra-daddario",
+    "title": "Alexandra Daddario",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/lindsay-lohan-actress-2006-flux/resolve/main/31514565.jpeg",
+    "repo": "Keltezaa/lindsay-lohan-actress-2006-flux",
+    "title": "Lindsay Lohan",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/gal-gadot-flux/resolve/main/34729532.jpeg",
+    "repo": "Keltezaa/gal-gadot-flux",
+    "title": "Gal Gadot",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/keira-knightley-flux/resolve/main/images/example_n8s9367gp.png",
+    "repo": "Keltezaa/keira-knightley-flux",
+    "title": "Keira Knightley",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/flux-miley-cyrus/resolve/main/31288328.jpeg",
+    "repo": "Keltezaa/flux-miley-cyrus",
+    "title": "Miley Cyrus",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/jenna-ortega-flux/resolve/main/32806245.jpeg",
+    "repo": "Keltezaa/jenna-ortega-flux",
+    "title": "Jenna Ortega",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/kirsten-dunst-actress-2000s-flux/resolve/main/33710058.jpeg",
+    "repo": "Keltezaa/kirsten-dunst-actress-2000s-flux",
+    "title": "Kirsten Dunst 2000",
+    "trigger_position": "prepend"
+
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/sarah-michelle-gellar-flux-model/resolve/main/35740912.jpeg",
+    "repo": "Keltezaa/sarah-michelle-gellar-flux-model",
+    "title": "Sarah Gellar",
+    "trigger_position": "prepend"
+
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/ella-purnell-flux/resolve/main/33998660.jpeg",
+    "repo": "Keltezaa/ella-purnell-flux",
+    "title": "Ella Purnell",
+    "trigger_position": "prepend"
+
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/hanni-makina-flux/resolve/main/32022667.jpeg",
+    "repo": "Keltezaa/hanni-makina-flux",
+    "title": "Hanni Makina",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/little-caprice-flux-adult-film-actress/resolve/main/36115967.jpeg",
+    "repo": "Keltezaa/little-caprice-flux-adult-film-actress",
+    "title": "Little Caprice",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/jennifer-lawrence-flux/resolve/main/images/example_w6e77c0j1.png",
+    "repo": "Keltezaa/jennifer-lawrence-flux",
+    "title": "Jennifer Lawrence",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/willow-rosenberg-flux-buffy-the-vampire-slayer-series/resolve/main/33039236.jpeg",
+    "repo": "Keltezaa/willow-rosenberg-flux-buffy-the-vampire-slayer-series",
+    "title": "Willow Rosenberg",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/emily-blunt-flux/resolve/main/32340808.jpeg",
+    "repo": "Keltezaa/emily-blunt-flux",
+    "title": "Emily Blunt",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/makenzie-raine-flux-sdxl-sd-1-5/resolve/main/31249406.jpeg",
+    "repo": "Keltezaa/makenzie-raine-flux-sdxl-sd-1-5",
+    "title": "Makenzie Raine",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/hanni-makina-flux/resolve/main/32022672.jpeg",
+    "repo": "Keltezaa/hanni-makina-flux",
+    "title": "Hanni Makina",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/drew-barrymore-flux/resolve/main/31779421.jpeg",
+    "repo": "Keltezaa/drew-barrymore-flux",
+    "title": "Drew Barrymore",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/ella-purnell-flux/resolve/main/33998660.jpeg",
+    "repo": "Keltezaa/ella-purnell-flux",
+    "title": "Ella Purnell",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/britney-spears-flux-model/resolve/main/32347562.jpeg",
+    "repo": "Keltezaa/britney-spears-flux-model",
+    "title": "Britney Spears",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/flux-livvy-dunne-influencer/resolve/main/32961323.jpeg",
+    "repo": "Keltezaa/flux-livvy-dunne-influencer",
+    "title": "Livvy Dunne",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/brooke-shields/resolve/main/35262293.jpeg",
+    "repo": "Keltezaa/brooke-shields",
+    "title": "Brooke Shields",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/alicia-vikander-sdxl-flux/resolve/main/27575407.jpeg",
+    "repo": "Keltezaa/alicia-vikander-sdxl-flux",
+    "title": "Alicia Vikander",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/jennifer-connelly-1990-flux/resolve/main/35317859.jpeg",
+    "repo": "Keltezaa/jennifer-connelly-1990-flux",
+    "title": "Jennifer Connelly",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/chanel-fenn/resolve/main/27235515.jpeg",
+    "repo": "Keltezaa/chanel-fenn",
+    "title": "Chanel Fenn",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/anna-kendrick-flux/resolve/main/36112776.jpeg",
+    "repo": "Keltezaa/anna-kendrick-flux",
+    "title": "Anna Kendrick",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/maggie-grace-sololora/resolve/main/34694559.jpeg",
+    "repo": "Keltezaa/maggie-grace-sololora",
+    "title": "Maggie Grace",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/tasha-yar-flux-1-d/resolve/main/33575221.jpeg",
+    "repo": "Keltezaa/tasha-yar-flux-1-d",
+    "title": "Denise Crosby",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/sandra-bullock/resolve/main/33163113.jpeg",
+    "repo": "Keltezaa/sandra-bullock",
+    "title": "Sandra Bullock",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/gwyneth-paltrow/resolve/main/32423435.jpeg",
+    "repo": "Keltezaa/gwyneth-paltrow",
+    "title": "Gwyneth Kate Paltrow",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/sammie-daniels/resolve/main/35070179.jpeg",
+    "repo": "Keltezaa/sammie-daniels",
+    "title": "Sammie Daniels",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/liv-tyler-flux/resolve/main/31567822.jpeg",
+    "repo": "Keltezaa/liv-tyler-flux",
+    "title": "Liv Tyler",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/flux-emma-myers/resolve/main/33673227.jpeg",
+    "repo": "Keltezaa/flux-emma-myers",
+    "title": "Emma Myers",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/katy-perry-flux/resolve/main/33711748.jpeg",
+    "repo": "Keltezaa/katy-perry-flux",
+    "title": "Katy Perry",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/flux-kaley-cuoco/resolve/main/33668486.jpeg",
+    "repo": "Keltezaa/flux-kaley-cuoco",
+    "title": "Kaley Cuoco",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/marry-queen/resolve/main/34408964.jpeg",
+    "repo": "Keltezaa/marry-queen",
+    "title": "Marry Queen",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/jessica-simpson-flux-model/resolve/main/32883280.jpeg",
+    "repo": "Keltezaa/jessica-simpson-flux-model",
+    "title": "Jessica Simpson",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/natalie-portman-sdxl-flux/resolve/main/33198319.jpeg",
+    "repo": "Keltezaa/natalie-portman-sdxl-flux",
+    "title": "Natalie Portman",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/emily-blunt-flux/resolve/main/32340808.jpeg",
+    "repo": "Keltezaa/emily-blunt-flux",
+    "title": "Emily Blunt",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/amanda-seyfried-flux/resolve/main/35433218.jpeg",
+    "repo": "Keltezaa/amanda-seyfried-flux",
+    "title": "Amanda Seyfried",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/sophie-turner-flux/resolve/main/32684268.jpeg",
+    "repo": "Keltezaa/sophie-turner-flux",
+    "title": "Sophie Turner",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/millie-bobby-brown-flux-d/resolve/main/32780781.jpeg",
+    "repo": "Keltezaa/millie-bobby-brown-flux-d",
+    "title": "Millie Bobby Brown",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/kristen-stewart/resolve/main/37705012.jpeg",
+    "repo": "Keltezaa/kristen-stewart",
+    "title": "Kristen Stewart",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/makenzie-raine-flux-sdxl-sd-1-5/resolve/main/31249400.jpeg",
+    "repo": "Keltezaa/makenzie-raine-flux-sdxl-sd-1-5",
+    "title": "Makenzie Raine",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/megan-fox-flux/resolve/main/26432542.jpeg",
+    "repo": "Keltezaa/megan-fox-flux",
+    "title": "Megan Fox",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/meg-ryan/resolve/main/images/example_h3h075rb8.png",
+    "repo": "Keltezaa/meg-ryan",
+    "title": "Meg Ryan",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/flux-realistic-asian-girls-face-flux/resolve/main/33526072.jpeg",
+    "repo": "Keltezaa/flux-realistic-asian-girls-face-flux",
+    "trigger_word": "1girl",
+    "title": "Realistic Asian",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/real-asian-women-zhen-shi-ya-zhou-nu-xing/resolve/main/33959692.jpeg",
+    "repo": "Keltezaa/real-asian-women-zhen-shi-ya-zhou-nu-xing",
+    "trigger_word": "asg",
+    "title": "Asian Women",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/asian-beauty-flux-lora/resolve/main/26655170.jpeg",
+    "repo": "Keltezaa/asian-beauty-flux-lora",
+    "trigger_word": "Sexy girl",
+    "title": "Asian Beauty",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/FntsyLightShow01_CE_FLUX_AIT/resolve/main/images/example_br3q8b1yx.png",
+    "repo": "Keltezaa/FntsyLightShow01_CE_FLUX_AIT",
+    "trigger_word": "fntsylghtshwCE_style",
+    "title": "Light Show",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/midjourney-v6-1-meets-flux-sdxl/resolve/main/images/example_eia85d856.png",
+    "repo": "Keltezaa/midjourney-v6-1-meets-flux-sdxl",
+    "trigger_word": "(aidmaMJ6.1)",
+    "title": "Midjourney-v6",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/crystals-flux-sdxl-pony-1-5/resolve/main/26240329.jpeg",
+    "repo": "Keltezaa/crystals-flux-sdxl-pony-1-5",
+    "trigger_word": "crystalz",
+    "title": "crystalz",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/enhanceaiteam/Flux-Uncensored-V2/resolve/main/banner.jpg",
+    "repo": "enhanceaiteam/Flux-Uncensored-V2",
+    "trigger_word": "NSFW",
+    "title": "enhanceaiteam/Flux-Uncensored-V2",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/enhanceaiteam/Flux-uncensored/resolve/main/banner.webp",
+    "repo": "enhanceaiteam/Flux-uncensored",
+    "trigger_word": "NSFW",
+    "title": "Flux-Uncensored",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/Prof_Nude_photography_v3_flux/resolve/main/images/example_20kld8mba.png",
+    "repo": "enhanceaiteam/Flux-uncensored",
+    "trigger_word": "NSFW_photo, nude, pussy,",
+    "title": "Photography v3",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/ShowerGirls/resolve/main/images/example_50pfk2fly.png",
+    "repo": "Keltezaa/ShowerGirls",
+    "trigger_word": "soaking wet, wet hair",
+    "title": "ShowerGirls",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/beauty-in-evil-by-hailoknight/resolve/main/26603864.jpeg",
+    "repo": "Keltezaa/Prof_Nude_photography_v3_flux",
+    "trigger_word": "HKEvil",
+    "title": "Beauty In Evil",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/fantasy-wizard-witches/resolve/main/30785243.jpeg",
+    "repo": "Keltezaa/fantasy-wizard-witches",
+    "trigger_word": "HKMagic",
+    "title": "Fantasy Wizard & Witches",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/flux_pussy_NSFW/resolve/main/images/Untitled.png",
+    "repo": "Keltezaa/flux_pussy_NSFW",
+    "trigger_word": "Fluxsy",
+    "title": "Flux Pussy",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/Vagina_HQ_/resolve/main/images/Untitled.png",
+    "repo": "Keltezaa/Vagina_HQ_",
+    "trigger_word": "VaginaHQ",
+    "title": "Vagina_HQ_",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/YDGenetals/resolve/main/images/Untitled.png",
+    "repo": "Keltezaa/YDGenetals",
+    "trigger_word": "YDgenetals",
+    "title": "YDgenetals",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/space-nebula-flux-sdxl-pony/resolve/main/27201163.jpeg",
+    "repo": "Keltezaa/space-nebula-flux-sdxl-pony",
+    "trigger_word": "mad-nbla",
+    "title": "Space Nebula",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/bai-leng-lei-yuan-su-te-xiao-xl-flux-thunder-element-special-effects/resolve/main/26390072.jpeg",
+    "repo": "Keltezaa/bai-leng-lei-yuan-su-te-xiao-xl-flux-thunder-element-special-effects",
+    "trigger_word": "bailing_lightning",
+    "title": "Bailing Lightning",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/Fire_Spirit/resolve/main/images/example_3pdeeyc3b.png",
+    "repo": "Keltezaa/Fire_Spirit",
+    "trigger_word": "bailing_fire",
+    "title": "Bailing Fire",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/glowing-bioluminescent-world-flux-ethanar/resolve/main/27135433.jpeg",
+    "repo": "Keltezaa/glowing-bioluminescent-world-flux-ethanar",
+    "trigger_word": "Bioluminescent",
+    "title": "Bioluminescent",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/neon-environments/resolve/main/31343637.jpeg",
+    "repo": "Keltezaa/neon-environments",
+    "trigger_word": "Neon",
+    "title": "Neon Environments",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/pimpilikipilapi1/NSFW_master/resolve/main/images/FIE9XKrUYAEtfZW.jpg",
+    "repo": "pimpilikipilapi1/NSFW_master",
+    "trigger_word": "NSFW",
+    "title": "NSFW_master",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/Celeb_anatomy_female_v2/resolve/main/images/image-0.jpg",
+    "repo": "Keltezaa/Celeb_anatomy_female_v2",
+    "trigger_word": "scg-anatomy-female",
+    "title": "Celeb_anatomy_female_v2",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/assexpose/resolve/main/images/example_8bqsyww47.png",
+    "repo": "Keltezaa/assexpose",
+    "trigger_word": "exposing her nude ass",
+    "title": "Ass Expose",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/Liquid_Water_Flow_Style_FLUX_SDXL_1.5/resolve/main/images/example_9jggdtka3.png",
+    "repo": "Keltezaa/Liquid_Water_Flow_Style_FLUX_SDXL_1.5",
+    "trigger_word": "ral-watce",
+    "title": "Liquid Water Flow Style",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/crazy-hair/resolve/main/26476797.jpeg",
+    "repo": "Keltezaa/crazy-hair",
+    "trigger_word": "oxwn_crazy_hair",
+    "title": "Crazy hair",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/cyborg-by-cosmic-remix/resolve/main/33022606.jpeg",
+    "repo": "Keltezaa/cyborg-by-cosmic-remix",
+    "trigger_word": "Cyborg",
+    "title": "Cyborg",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/POV_Deepthroat_Blowjob_Flux_Pony/resolve/main/images/example_02ghwa5l7.png",
+    "repo": "Keltezaa/POV_Deepthroat_Blowjob_Flux_Pony",
+    "trigger_word": "blowjob",
+    "title": "POV_Deepthroat_Blowjob",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/Bodywriting_Flux/resolve/main/images/example_h64ps0fql.png",
+    "repo": "Keltezaa/Bodywriting_Flux",
+    "trigger_word": "Bodywriting",
+    "title": "Bodywriting",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/WomanBodyTattoo_Flux/resolve/main/images/example_k3bjqisnu.png",
+    "repo": "Keltezaa/WomanBodyTattoo_Flux",
+    "trigger_word": "aidmawomanbodytattoo",
+    "title": "WomanBodyTattoo",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/Fingering/resolve/main/images/example_kim2lqs0j.png",
+    "repo": "Keltezaa/Fingering",
+    "trigger_word": "Fingering Masturbating Female orgasm",
+    "title": "Fingering",
+    "trigger_position": "append"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/Show_Your_Sexy_Area/resolve/main/images/example_z460zf09r.png",
+    "repo": "Keltezaa/Show_Your_Sexy_Area",
+    "trigger_word": "closeup-apart",
+    "title": "Sexy_Area",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/Aigis_Persona/resolve/main/images/example_gta1mo5hu.png",
+    "repo": "Keltezaa/Aigis_Persona",
+    "trigger_word": "Aigis",
+    "title": "Aigis - Persona",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/VirginReport/resolve/main/images/example_xd5e6v9d0.png",
+    "repo": "Keltezaa/NSFW_POV_Blowjob_lora_v2",
+    "trigger_word": "VRP01,multiple views, uncensored, solo, 1girl",
+    "title": "VirginReport",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/normalnudes_for_Flux/resolve/main/images/example_f41v830k3.png",
+    "repo": "Keltezaa/normalnudes_for_Flux",
+    "title": "normal nudes"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/SpreadWithFingersFlux/resolve/main/images/example_chzroubvs.png",
+    "repo": "Keltezaa/SpreadWithFingersFlux",
+    "title": "Spread With Fingers Flux"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/POV_Deepthroat_Blowjob_Flux_Pony/resolve/main/images/example_d7qxx2g6d.png",
+    "repo": "Keltezaa/NSFW_POV_Blowjob_lora_v2",
+    "trigger_word": "pov, blowjob",
+    "title": "POV Blowjob 2",
+    "trigger_position": "prepend"
+  },
+  {
+    "image": "https://huggingface.co/Keltezaa/NSFW_MASTER_FLUX/resolve/main/images/example_rctquqqe3.png",
+    "repo": "Keltezaa/NSFW_MASTER_FLUX",
+    "trigger_word": "NSFW, Nude",
+    "title": "NSFW Flux V2",
+    "trigger_position": "append"
+  }
+]
